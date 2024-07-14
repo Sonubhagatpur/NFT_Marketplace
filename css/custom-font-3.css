@@ -1,0 +1,6 @@
+@import url('css2.css');
+
+* {
+    --title-font: "Inter", Helvetica, Arial, sans-serif;
+    --body-font: "Inter", Helvetica, Arial, sans-serif;
+}
